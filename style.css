@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+div{
+    padding:12px;
+    margin: 3px;
+    background-color: bisque;
+    padding: 15px;
+    
+}
+li{
+    display: inline;
+    padding-left: 20px;
+    font-size: 1.5rem;
+    cursor: pointer;
+    margin: 22px;
+
+}
+ul{
+    text-align:right;
+}
+li:hover{color: rgb(149, 98, 165);}
